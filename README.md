@@ -1,1 +1,2 @@
-# remitly_takehome_dataset
+# Remitly Take Home Dataset
+### Hat sales at the Remitly Island Resort
